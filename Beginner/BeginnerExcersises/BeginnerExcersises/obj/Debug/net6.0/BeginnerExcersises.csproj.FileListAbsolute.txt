@@ -1,0 +1,15 @@
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\bin\Debug\net6.0\BeginnerExcersises.exe
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\bin\Debug\net6.0\BeginnerExcersises.deps.json
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\bin\Debug\net6.0\BeginnerExcersises.runtimeconfig.json
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\bin\Debug\net6.0\BeginnerExcersises.dll
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\bin\Debug\net6.0\BeginnerExcersises.pdb
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.csproj.AssemblyReference.cache
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.AssemblyInfoInputs.cache
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.AssemblyInfo.cs
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.csproj.CoreCompileInputs.cache
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.dll
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\refint\BeginnerExcersises.dll
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.pdb
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\BeginnerExcersises.genruntimeconfig.cache
+C:\Data\GitHub\CSharpUdemy\Beginner\BeginnerExcersises\BeginnerExcersises\obj\Debug\net6.0\ref\BeginnerExcersises.dll
