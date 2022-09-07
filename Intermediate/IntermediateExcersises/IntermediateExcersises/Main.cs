@@ -1,4 +1,6 @@
-﻿namespace IntermediateExercises
+﻿using IntermediateExcersises;
+
+namespace IntermediateExercises
 {
   class SolutionController
   {
@@ -17,6 +19,10 @@
       Section5 sectionFive = new Section5();
       //sectionFive.ExerciseOne();
       //sectionFive.ExerciseTwo();
+
+      // Section 6 Solutions
+      Section6 sectionSix = new Section6();
+      sectionSix.ExerciseOne();
     }
   }
 }
