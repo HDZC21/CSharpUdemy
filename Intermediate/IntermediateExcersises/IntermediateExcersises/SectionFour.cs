@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntermediateExcersises
+namespace IntermediateExercises
 {
   public class Section4
   {
@@ -24,7 +24,7 @@ namespace IntermediateExcersises
     }
   }
 
-  // Excersise: Design a Stack
+  // Exercise: Design a Stack
   /*
   A Stack is a data structure for storing a list of elements in a LIFO (last in, first out) fashion.
   

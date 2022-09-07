@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace IntermediateExcersises
+namespace IntermediateExercises
 {
   public class Section2
   {
-    // Excersise 1: Design a Stopwatch
+    // Exercise 1: Design a Stopwatch
     /*
     Design a class called Stopwatch. The job of this class is to simulate a stopwatch. It should
     provide two methods: Start and Stop. We call the start method first, and the stop method next.
@@ -24,7 +24,7 @@ namespace IntermediateExcersises
     outside, you should not be able to misuse a class because you shouldn’t be able to see the
     implementation detail. 
     */
-    public void ExcersiseOne()
+    public void ExerciseOne()
     {
       Stopwatch stopwatch = new Stopwatch();
       Console.WriteLine("Stowatch is running.");
@@ -65,7 +65,7 @@ namespace IntermediateExcersises
       }
     }
 
-    // Excersise 2: Design a StackOverflow Post
+    // Exercise 2: Design a StackOverflow Post
     /*
     Design a class called Post. This class models a StackOverflow post. It should have properties
     for title, description and the date/time it was created. We should be able to up-vote or down-vote
@@ -83,7 +83,7 @@ namespace IntermediateExcersises
     procedural programming. Such programs are very fragile. Making a change breaks many parts
     of the code.
     */
-    public void ExcersiseTwo()
+    public void ExerciseTwo()
     {
       Post newPost = new Post("myPost", "This is my new post");
       newPost.Vote("up");
